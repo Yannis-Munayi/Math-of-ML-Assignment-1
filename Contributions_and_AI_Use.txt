@@ -1,4 +1,4 @@
-Math of Machine Learning (Math 3035) - Group Assignment 1
+Math of Machine Learning (Math 3035) - Group 10's Assignment 1
 Option chosen for Part B: Option F (Eigenfaces, Olivetti faces)
 
 CONTRIBUTION STATEMENT
