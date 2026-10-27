@@ -1,0 +1,21 @@
+Math of Machine Learning (Math 3035) - Group Assignment 1
+Option chosen for Part B: Option F (Eigenfaces, Olivetti faces)
+
+CONTRIBUTION STATEMENT
+- Shawn Hughes: Part A (breast cancer data set, PCA via the SVD, SVM feature reduction).
+- Matthew Espinoza: Part B1 (shared core: exploring the data, singular values and variance,
+  principal components as images, reconstruction / Eckart-Young, pixel standardization).
+- Thomas Puzio: Part B2, Option F (number of singular values, efficient eigenface computation,
+  face recognition, distance from face space).
+- Yannis Munayi: Part B3 (synthesis: choice of k, limitations of PCA).
+All members reviewed the full submission and are responsible for understanding all of it.
+
+AI-USE STATEMENT
+- Claude (Anthropic): 
+  * Part B3 (Yannis): used to help draft and revise the B3 analysis and its supporting code,
+    and to review the written answers. The group checked the results against the notebook
+    outputs and edited the final wording.
+  * Whole submission: used to read through all of the notebooks and list contradictions
+    between them. The group then fixed these contradictions ourselves.
+- GitHub Copilot in VS Code: used by Thomas Puzio to help debug and fix some of his code in Part B2.
+- No other AI tools were used.
